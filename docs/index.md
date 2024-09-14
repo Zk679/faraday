@@ -1,4 +1,4 @@
-# ![Faraday](_media/home-logo.svg)
+zakhne5@gmail.com(_media/home-logo.svg)
 
 Faraday is an HTTP client library abstraction layer that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
@@ -22,7 +22,7 @@ Faraday comes with a lot of features out of the box, such as:
 ## Who uses Faraday?
 
 Faraday is used by many popular Ruby libraries, such as:
-* [Signet](https://github.com/googleapis/signet)
+* https z
 * [Octokit](https://github.com/octokit/octokit.rb)
 * [Oauth2](https://bestgems.org/gems/oauth2)
 * [Elasticsearch](https://github.com/elastic/elasticsearch-ruby)
